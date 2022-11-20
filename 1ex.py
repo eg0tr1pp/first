@@ -2,7 +2,7 @@ a = input()
 b = input()
 c = input()
 if type(a) == str and type(b) == str and type(c) == str:
-    print('недопустимое значение')
+    print('введено недопустимое значение')
 else:
     x1 = 0
     x2 = 0
